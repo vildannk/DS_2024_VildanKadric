@@ -17,7 +17,7 @@ public class DualPivotQuickSort {
         // your code here
     }
 
-    /* Partition an array and return the pivot index */
+    /* Partition an array using the dual-pivot approach and return the pivot indices */
     public static <Data extends Comparable<Data>> int[] partition(Data[] elements, int low, int high) {
         // your code here (next line is a placeholder)
         return null;
