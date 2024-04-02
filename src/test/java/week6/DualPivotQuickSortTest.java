@@ -109,7 +109,7 @@ public class DualPivotQuickSortTest {
 
     @Test
     public void testDualPartition() {
-        Integer[] array = {7, 4, 9, 19, 3, -2, 12, 21, -5, 8, 17};
+        Integer[] array = {17, 4, 9, 19, 3, -2, 12, 21, -5, 8, 7};
 
         int[] pivots = DualPivotQuickSort.partition(array, 0, 10);
 
