@@ -23,9 +23,24 @@ Data Structures and Algorithms @ International Burch University (2023 - 2024)
 - [[Week 5] Lecture slides - Merge Sort](https://docs.google.com/presentation/d/1v_zeIS-3-d3slnf6yqn0ngmmIM3uevVhKjTlaoXLtdc/edit?usp=sharing)
 - [[Week 5] Lab document - Merge Sort Algorithm](https://docs.google.com/document/d/1rqb7Xm2f77Hc5PFyjktFAE1ad8GSfXURjxzs7IKkars/edit?usp=sharing)
 
-## Week 5: Quick Sort
+## Week 6: Quick Sort
 - [[Week 6] Lecture slides - Quick Sort](https://docs.google.com/presentation/d/1-KjsXHAEROuEMd1wKWTNzsBre1gnU5TNgeGkhkJu8Mw/edit?usp=sharing)
 - [[Week 6] Lab document - Quick Sort Algorithm](https://docs.google.com/document/d/1j2Xg9d9Cv4eQwsS8r8Wo_upMvklEb_5ZPKNSX52RbRg/edit?usp=sharing)
+
+## Week 7: Midterm Exam Preparation
+- [[Week 7] Lecture slides - Midterm Exam Preparation](https://docs.google.com/presentation/d/1P8ShIcGcFKQCE9xdj_ntjkMlsjnfBlgIbhFoaDgqwE8/edit?usp=sharing)
+- No lab session
+
+## Week 8: Midterm Exam
+- No classes this week
+
+## Week 9: Radix Sort & Counting Sort
+- [[Week 9] Lecture slides - Quick Sort](https://docs.google.com/presentation/d/10R-XawwHHeSlJjd8zJGPf9auw8huottG5DQE6jVRm9g/edit?usp=sharing)
+- [[Week 9] Lab document - Radix Sort Algorithm](https://docs.google.com/document/d/16PnZTafJMEfCJgDZl_3IACbcgLPdg6RbHvTh_8KdYpw/edit?usp=sharing)
+
+## Week 10: Trees & Binary Heap
+- [[Week 10] Lecture slides - Trees & Binary Heap](https://docs.google.com/presentation/d/1kSn8i1bV-3cqV5PUdWuK5WZQLCufQDrcqljBvnWq8To/edit?usp=sharing)
+- [[Week 10] Lab document - Binary Heap](https://docs.google.com/document/d/1SNlavntYfNGGK0c-c-hq1yeWHcCKJoA32k_Mifq97OQ/edit?usp=sharing)
 
 ---
 https://ibu.edu.ba @ 2024
