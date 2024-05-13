@@ -42,5 +42,9 @@ Data Structures and Algorithms @ International Burch University (2023 - 2024)
 - [[Week 10] Lecture slides - Trees & Binary Heap](https://docs.google.com/presentation/d/1kSn8i1bV-3cqV5PUdWuK5WZQLCufQDrcqljBvnWq8To/edit?usp=sharing)
 - [[Week 10] Lab document - Binary Heap](https://docs.google.com/document/d/1SNlavntYfNGGK0c-c-hq1yeWHcCKJoA32k_Mifq97OQ/edit?usp=sharing)
 
+## Week 11: Binary Search Trees
+- [[Week 11] Lecture slides - Binary Search Trees](https://docs.google.com/presentation/d/1Owdx_Uiv6qtc2GPdSWbVd-JJGXm_BJckJbo3sTNmEwc/edit?usp=sharing)
+- [[Week 11] Lab document - Binary Search Tree](https://docs.google.com/document/d/1Y0MAhqW0YRtdpPXR0ZP2POXXuRMC4LEJZHB6InYuIok/edit?usp=sharing)
+
 ---
 https://ibu.edu.ba @ 2024
