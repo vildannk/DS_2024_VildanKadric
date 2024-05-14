@@ -10,7 +10,7 @@ public class FileUtils {
         return null;
     }
 
-    public static void writeToFile(Entry[] students, String filePath) throws IOException {
+    public static void writeToFile(Entry[] entries, String filePath) throws IOException {
         // implement the actual logic
     }
 }
